@@ -1,8 +1,8 @@
 ---
 title: "In the Name of Peace: The First Poster for Soviet Space Programme"
 tags: 
-- 历史
-- 艺术
+- 歷史
+- 藝術
 ---
 
 On 17th December, 2020, the successful return of lunar samples to earth of Chang’s 5 excited patriots in China as well as people who care about the space programme. The latter kind of people always admire the time of the Space Race between the United States (US) and the Soviet Union (USSR) during the Cold War as a period of dream for the prosperity of space exploration. However, even before USSR’s launch of the first artificial earth satellite Sputnik 1, Americans had been aware of the propaganda potential of space programmes.<!--more--> After officials of USSR seen the great impact of Sputnik 1 on the west, the space programme was related strongly to, even bound up with political propaganda. The first poster for Soviet space programme, *In the Name of Peace* (see Figure 1, called ‘Peace’ for short later), was created in 1959 by the famous Soviet poster artist, Irakli Toidze. In this poster, such relationship can be revealed.
