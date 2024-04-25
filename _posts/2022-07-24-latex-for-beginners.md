@@ -1,7 +1,7 @@
 ---
 title: LaTeX 入门
 tags:
-- LaTeX
+- 工具
 mathjax: true
 mermaid: true
 ---

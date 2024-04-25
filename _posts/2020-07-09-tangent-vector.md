@@ -1,6 +1,10 @@
 ---
 title: 切向量与几何直观
-tags: Mathematics
+tags: 
+- Mathematics
+- 数学
+- Academic essays
+- 学术随笔
 mathjax: true
 ---
 

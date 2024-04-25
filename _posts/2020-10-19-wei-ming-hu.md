@@ -1,9 +1,7 @@
 ---
 layout: article
 title: 未名湖
-tags:
-- 诗歌
-- 致 lhp
+tags: 诗歌
 ---
 
 今夜无月，今夜只有满天的星星<br>

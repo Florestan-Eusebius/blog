@@ -1,7 +1,8 @@
 ---
 title: 关于信息论的若干直觉
 tags:
-- Physics
+- Academic essays
+- 学术随笔
 mathjax: true
 ---
 

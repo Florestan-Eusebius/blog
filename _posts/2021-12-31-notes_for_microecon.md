@@ -2,6 +2,9 @@
 title: Notes for microeconomics
 tags:
 - Economics
+- 经济学
+- Academic notes
+- 学术笔记
 mathjax: true
 ---
 

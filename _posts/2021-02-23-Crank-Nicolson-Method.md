@@ -2,6 +2,9 @@
 title: Crank-Nicolson Method for Solving 1D Schrödinger Equation
 tags: 
 - Physics
+- 物理
+- Academic notes
+- 学术笔记
 mathjax: true
 ---
 

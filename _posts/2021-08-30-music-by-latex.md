@@ -1,9 +1,7 @@
 ---
 title: '使用 LaTeX 制作音乐文档'
 tags: 
-- LaTeX
-- LilyPond
-- Music
+- 工具
 ---
 
 因为自学乐理需要写一些 note，我需要使用 LaTeX 编辑含有谱例、音乐记号的音乐文档。常见的选项是 MusiXTeX 包用来制作谱例，musicography 包用来提供正文中的音乐记号。但 MusiXTeX 的语法实在是太反人类了，非常低效，而且不太好看。考虑到 LilyPond 语法比较简单，而且具有导出 midi 文件等强大的功能，我平时单纯打谱也是用它，于是考虑整合 LilyPond 和 LaTeX 成为了一个好的选择。<!--more-->LilyPond 的下载和基本使用都可参考其官网：[LilyPond – Music notation for everyone](https://lilypond.org/index.html)。

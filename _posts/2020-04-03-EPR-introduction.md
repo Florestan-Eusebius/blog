@@ -1,6 +1,10 @@
 ---
 title: EPR 到底说了些什么
-tags: Physics
+tags: 
+- Physics
+- 物理
+- Academic essays
+- 学术随笔
 mathjax: true
 ---
 

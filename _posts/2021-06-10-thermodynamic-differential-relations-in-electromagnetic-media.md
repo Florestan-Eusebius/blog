@@ -1,7 +1,11 @@
 ---
 layout: article
 title: 电磁介质的热力学微分式
-tags: Physics
+tags: 
+- Physics
+- 物理
+- Academic notes
+- 学术笔记
 mathjax: true
 ---
 

@@ -2,7 +2,7 @@
 title: Jekyll 公式支持和字体适配
 mathjax: true
 tags: 
-- 技术
+- 工具
 ---
 
 配置 MathJax 并使用 MLModern 字体.
@@ -36,6 +36,8 @@ mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-mml-chtml.js'
 其中 `tags: ams` 表示对 `equation` 环境中的行内公式进行编号.
 
 ## 字体匹配
+
+> 2024.04.25 更新：为获得更现代、更适合屏幕显示的效果，更换回默认字体。
 
 MathJax 2 支持多种字体, 见[文档](https://docs.mathjax.org/en/latest/output/fonts.html?highlight=font#mathjax-font-support). 目前版本的 MathJax 3 只支持默认字体, 但其功能更为完善 (例如支持 `\ket{}` 等命令, 这对于物理学爱好者无疑具有很强的吸引力), 所以我们使用这一版本. MathJax 3 的默认字体大小和粗细都最接近 [MLModern 包](https://ctan.org/pkg/mlmodern?lang=en)提供的字体. 我们下载该字体的 ttf 文件后将其放在 `/_sass/font/` 文件夹中, 并在 `/_sass/layout/_page.scss` 中写入 
 

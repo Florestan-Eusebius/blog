@@ -1,6 +1,10 @@
 ---
 title: 纠缠和统计力学的基础
-tags: Physics
+tags: 
+- Physics
+- 物理
+- Academic notes
+- 学术笔记
 mathjax: true
 ---
 

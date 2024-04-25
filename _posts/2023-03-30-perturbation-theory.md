@@ -2,6 +2,9 @@
 title: 低能有效 Hamilton 量的微扰构造
 tags:
 - Physics
+- 物理
+- Academic notes
+- 学术笔记
 mathjax: true
 ---
 
