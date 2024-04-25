@@ -79,10 +79,10 @@ div.scroll-container img {
 - 对第二次重整化得到的棋盘再作一次重整化, 得到 $18\times 18$ 的新棋盘, 即第四张小图, 对应整个原图.
 
 <div class="scroll-container">
-  <img src="/img/20230804/Renorm2.2.png" alt="2.2">
-  <img src="/img/20230804/Renorm2.27.png" alt="2.27">
-  <img src="/img/20230804/Renorm2.3.png" alt="2.3">
-  <img src="/img/20230804/RenormInf.png" alt="Inf">
+  <img src="/blog/img/20230804/Renorm2.2.png" alt="2.2">
+  <img src="/blog/img/20230804/Renorm2.27.png" alt="2.27">
+  <img src="/blog/img/20230804/Renorm2.3.png" alt="2.3">
+  <img src="/blog/img/20230804/RenormInf.png" alt="Inf">
 </div> 
 
 上述四个参数下得到的典型构型在重整化下展示出不同的行为:
@@ -94,7 +94,7 @@ div.scroll-container img {
 
 总结下来, 我们的模型存在三个重整化下的 "不动点": $p=0, 0.141, 1$. **临界点** $p_c=0.414$ 将参数 $0\leq p\leq 1$ 划分成了两个区域, 当 $0<p<0.414$ 时, 随着我们逐渐放大观察的最小尺度 (重整化), 我们看到的系统会变得越来越像 $p=0$ 时的系统; 当 $0.414<p<1$ 时, 随着我们反复重整化, 我们看到的系统会变得越来越像 $p=1$ 时的系统. 我们可以画出下图所示的**重整化流**, 箭头表示随着我们反复重整化, 系统会表现得越来越像箭头所指方向的参数. 图中箭头指向的不动点是**稳定**的不动点, 箭头背向的不动点是**不稳定**的不动点. 结合第一节对相变的讨论, 我们不难得出: **重整化下流向同一个稳定不动点的参数构成一个相, 重整化下的不稳定不动点对应相变点.**[^RG_fixed_point_PT] 
 
-<center><img src="/img/20230804/RGflow.png" width="40%"></center>
+<center><img src="/blog/img/20230804/RGflow.png" width="40%"></center>
 
 下面回答此前提出的问题: 我们摸到的 "温度不同", 究竟在体现在哪里? 为此, 我们考察上述棋盘模型和磁铁的对应:
 
