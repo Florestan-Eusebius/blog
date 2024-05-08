@@ -22,7 +22,7 @@ header:
       # fr-FR   : *FR
       # fr-LU   : *FR
 
-    url: https://florestan-eusebius.github.io
+    url: /index.html
 
   - titles:
       # @start locale config
@@ -52,16 +52,16 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Notes
+      en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  笔记
+      zh-Hans : &ZH_HANS  关于
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  筆記
+      zh-Hant : &ZH_HANT  關於
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
       # ko      : &KO       소개
@@ -73,4 +73,4 @@ header:
       # fr-FR   : *FR
       # fr-LU   : *FR
       # @end locale config
-    url: /notes.html
+    url: https://florestan-eusebius.github.io
